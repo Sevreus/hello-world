@@ -1,1 +1,1 @@
-Blah blah blah - this a dummy/placeholder notepad for myself.
+Blah blah blah - this is a shiny notepad.
